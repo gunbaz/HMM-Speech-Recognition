@@ -1,2 +1,7 @@
-hmmlearn==0.3.3 
-numpy==1.26.4 
+hmmlearn==0.3.3
+numpy==1.26.4
+emcee>=3.1.6
+corner>=2.2.3
+matplotlib>=3.7
+pandas>=2.0
+notebook>=7.0
